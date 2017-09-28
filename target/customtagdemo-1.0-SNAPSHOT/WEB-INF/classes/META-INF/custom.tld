@@ -1,0 +1,17 @@
+
+<taglib>
+
+<tlib-version>1.0</tlib-version>
+
+<short-name>custom tag demo</short-name>
+<uri>http://matc.edu/tags</uri>
+
+<tag>
+    <name>Hello</name>
+    <tag-class>edu.matc.customtagdemo.HelloWorldTag</tag-class>
+    <body-content>empty</body-content>
+</tag>
+
+</taglib>
+
+
